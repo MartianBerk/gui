@@ -2,8 +2,6 @@
 from tkinter import *
 from tkinter import ttk
 
-# Test
-
 
 def calculate(*args):
     """Calculate conversion."""
