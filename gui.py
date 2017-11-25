@@ -1,4 +1,4 @@
-"""Test GUI Module."""
+"""Test GUI Module"""
 from tkinter import *
 from tkinter import ttk
 
